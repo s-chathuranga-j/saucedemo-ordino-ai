@@ -1,3 +1,4 @@
 {
-  "projectRoot": "."
+  "projectRoot": ".",
+  "testIdAttribute": "data-test"
 }
