@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "Ordino": {
+      "type": "http",
+      "url": "http://127.0.0.1:9223/mcp?project_root=%2FUsers%2Fchathurangajayasinghe%2FWorkspaces%2FOrdinoAI%2Fsaucedemo-ordino-ai",
+      "headers": {
+        "x-ordino-project-root": "/Users/chathurangajayasinghe/Workspaces/OrdinoAI/saucedemo-ordino-ai"
+      }
+    }
+  }
+}
